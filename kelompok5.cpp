@@ -151,9 +151,9 @@ int main() {
 
     for (int i = 0; i < num; i++) {
         if (cariKata(words[i])) {
-            cout << "Ada" << endl;
+            cout << "ganteng" << endl;
         } else {
-            cout << "Tidak Ada" << endl;
+            cout << "tidak ada" << endl;
         }
     }
 
